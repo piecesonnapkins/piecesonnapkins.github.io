@@ -1,5 +1,6 @@
-* {
+html {
   font-family: Helvetica;
+  font-size: 16px;
 }
 h1{
   font-size: 100px;
@@ -7,6 +8,6 @@ h1{
   color: khaki;
   text-align: center;
   background-image: url('https://github.com/piecesonnapkins/piecesonnapkins.github.io/blob/master/resources/images/20170628_095306-01.jpg?raw=true');
-  height: 400px;
+  height: 46rem;
   display: flex;
 }
