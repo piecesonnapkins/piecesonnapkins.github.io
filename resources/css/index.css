@@ -8,4 +8,5 @@ h1{
   text-align: center;
   background-image: url('https://github.com/piecesonnapkins/piecesonnapkins.github.io/blob/master/resources/images/20170628_095306-01.jpg?raw=true');
   height: 400px;
+  display: flex;
 }
